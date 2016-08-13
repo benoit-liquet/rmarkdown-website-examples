@@ -1,22 +1,30 @@
 name: "my-website"
 output_dir: "."
 navbar:
-  title: "Les sixièmes Rencontres R"
   type: inverse
   left:
     - text: "Acceuil"
       href: index.html
-    - text: "About"
+    - text: "Appel à communications"
       href: about.html
     - text: "Comités"
       href: committee.html
+    - text: "Dates Importantes"
+      href: Dates.html
+    - text: "Inscriptions"
+      href: inscription.html
+    - text: "Partenaires et Sponsors"
+      href: partenaires.html
+    - text: "Informations pratiques"
+      href: Information.html
+    - text: R
+      href: https://cran.r-project.org/index.html
+
 output:
   html_document:
     theme: cosmo
     highlight: textmate
-
-    background-image: url(/FIG/Anglet.png);
-    background-color: #cccccc;
+    css: Kfyin.css
 
 
 
