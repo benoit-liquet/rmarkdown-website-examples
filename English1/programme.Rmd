@@ -8,7 +8,7 @@ title: "Program"
 - Marie-Pierre Etienne (AgroParisTech/INRA): *Ecololy Analysis using R*  
 - Thomas Gerds (Danemark, University of Copenhagen): [*Sensitivity analysis using lava simulation*](https://angletr2017.com/Abstract_talk.html)
 - Joel Gombin (from datactivist, http://www.datactivi.st): *Data Journalisme*
-- Julie Bertrand (UMR 1137 INSERM, Paris-Diderot and UCL Genetic Institute): *Bayesian approach in pharmacogenetics with JAGS and RStan* UMR 1137 INSERM University Paris Diderot
+- Julie Bertrand (UMR 1137 INSERM, Paris-Diderot and UCL Genetic Institute): [*Bayesian approach in pharmacogenetics with JAGS and RStan*](https://angletr2017.com/Abstract_talk.html) UMR 1137 INSERM University Paris Diderot
 - Farouk Nathoo (Canada: University of Victoria): [*Bayesian Group-Sparse Multi-Task Regression for Imaging Genetics*](https://angletr2017.com/Abstract_talk.html)
 
 ## **Tutorials (Wednesday 28 June afternoon)**

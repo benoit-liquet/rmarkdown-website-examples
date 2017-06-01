@@ -4,7 +4,7 @@
 
 <head>
 
-<meta charset="utf-8" />
+<meta charset="utf-8">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
 
@@ -228,6 +228,21 @@ $(document).ready(function () {
 <h2>Farouk Nathoo: Bayesian Group-Sparse Multi-Task Regression for Imaging Genetics</h2>
 <p>Recent advances in technology for brain imaging and high-throughput genotyping have motivated studies examining the influence of genetic variation on brain structure. In this setting, high-dimensional regression for multi-SNP association analysis is challenging as the response variables obtained through brain imaging comprise potentially interlinked endophenotypes, and there is a desire to incorporate a biological group structure among SNPs based on their genetic arrangement. We consider a recently developed approach for the analysis of imaging genetic studies based on penalized regression with regularization based on a group <span class="math inline">\(l_{2,1}\)</span>-norm penalty which encourages sparsity at both the gene and SNP level. While incorporating a number of useful features, a shortcoming of the proposed approach is that it only furnishes a point estimate and techniques for obtaining valid standard errors or interval estimates are not provided. We solve this problem by developing a corresponding Bayesian formulation based on a three-level hierarchical model that allows for full posterior inference using Gibbs sampling. Techniques for the selection of tuning parameters are investigated thoroughly and we make comparisons between cross-validation, fully Bayes, and empirical Bayes approaches for the choice of tuning parameters. Our proposed methodology is investigated using simulation studies and is applied to the analysis of a large dataset collected as part of the Alzheimer’s Disease Neuroimaging Initiative. I will discuss how our MCMC algorithm scales with an increasing number of SNPs, imaging phenotypes, and subjects, and I will also describe extensions of the model for application to brain-wide data and the corresponding development of a spatial model that is currently in progress. Finally, I will introduce the R package ‘bgsmtr’ that implements our model.</p>
 </div>
+<div id="julie-bertrand-approche-bayesienne-en-pharmacogenetique-avec-jags-et-rstan" class="section level2">
+<h2>Julie Bertrand: Approche Bayésienne en pharmacogénétique avec JAGS et RStan</h2>
+<div id="resume" class="section level3">
+<h3>Résumé</h3>
+<p>Les modèles non linéaires à effets mixtes (MNLEM) utilisent les connaissances a priori sur le médicament pour mieux quantifier la réponse moyenne et sa variabilité intra et inter-patient. Leur développement en pharmacogénétique (PG) devrait permettre d’augmenter la puissance de détection des marqueurs génétiques de la variabilité inter-patient. Pour estimer les paramètres de ces MNLEM, l’approche par maximum de vraisemblance, principalement utilisée en pharmacologie quantitative est mise en défaut dans les études PG de criblage à haut débit ou N&lt;&lt;p. Dans ce cadre, nous explorons une approche de régression pénalisée (extension de type LASSO dans saemix [1]) puis des approches Bayésiennes (JAGs [2] et RStan [3]) par une étude de simulation et sur les données de l’essai PECAN ANRS 12154 [4].</p>
+</div>
+<div id="abstract" class="section level3">
+<h3>Abstract</h3>
+<p>Nonlinear mixed effect models use the a priori knowledge on the drug to better quantify its average response, intra and inter variability. Their development in pharmacogenetics (PG) is expected to increase the power of detecting the genetic markers of the interpatient variability. The maximum likelihood approach, commonly used in quantitative pharmacology, fail to estimate these model parameters in high throughput PG studies where N&lt;&lt;p. In that context, we explore a penalized regression (LASSO extension to saemix [1] and Bayesian approaches through a simulation study and on real data from the PECAN ANRS 12154 trial [4].</p>
+<p>[1] <a href="https://cran.r-project.org/web/packages/saemix/index.html" class="uri">https://cran.r-project.org/web/packages/saemix/index.html</a></p>
+<p>[2] <a href="http://mcmc-jags.sourceforge.net/" class="uri">http://mcmc-jags.sourceforge.net/</a></p>
+<p>[3] <a href="http://mc-stan.org/interfaces/rstan" class="uri">http://mc-stan.org/interfaces/rstan</a></p>
+<p>[4] Bertrand J, Chou M, Richardson DM, Verstuyft C, Leger PD, Mentré F, et al. Multiple genetic variants predict steady-state nevirapine clearance in HIV-infected Cambodians. Pharmacogenet Genomics. dec 2012;22(12):868‑76.</p>
+</div>
+</div>
 
 
 
@@ -252,7 +267,7 @@ $(document).ready(function () {
   (function () {
     var script = document.createElement("script");
     script.type = "text/javascript";
-    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    script.src  = "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
     document.getElementsByTagName("head")[0].appendChild(script);
   })();
 </script>
