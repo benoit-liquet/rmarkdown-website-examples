@@ -53,3 +53,31 @@ The maximum likelihood approach, commonly used in quantitative pharmacology, fai
 
 [4] Bertrand J, Chou M, Richardson DM, Verstuyft C, Leger PD, Mentré F, et al. Multiple genetic variants predict steady-state nevirapine clearance in HIV-infected Cambodians. Pharmacogenet Genomics. dec 2012;22(12):868‑76.
 
+##  Marie-Pierre Etienne: Some statistical approaches  for movement ecology
+
+### Résumé : Quelques approches statistiques pour l'écologie du déplacement
+
+L'inférence de modèles de mouvement donne un éclairage pertinent sur les mécanismes écologiques responsables des dynamiques au niveau individuel et/ou populationnel.
+Ces analyses sont essentielles pour les gestionnaires de la faune sauvage pour comprendre les comportements complexes des animaux. Dans le domaine de l'halieutique, Identifier les motifs qui expliquent l'utilisation que les pêcheurs font de l'espace est un élément essentiel d'une gestion durable des ressources marines. Ces deux domaines développent aujourd'hui de grands campagnes de déploiement de GPS. Les questions écologiques que l'ont peut étudier grâce à l'analyse de ce type de données sont très larges et la spécifité des données de trajectoires( objet spatio temporel) réclame de nouveaux développements méthodologiques.
+Le domaine des  statistiques pour l'écologie du mouvement  est donc en plein essor et de nombreuses approches différentes sont proposées pour extraire des informations pertinentes de l'analyse des trajectoires. Parmi celles-ci nous pouvons distinguer 
+- des modèles discret en temps et en espace  (essentiellement des modèles de Markov sur grille)
+- des modèles à temps discrets mais à espace d'états continu (marche aléatoire, modèle auto regressif vectoriel et modèles de Markov cachés)
+- des modèles continus en temps et en espace (mouvement Brownien, Processus de Ornstein Uhlenbeck et plus généralement équation différentielle stochastique)
+
+Dans cet exposé, nous mettrons en avant des développements récents relevant des deux derniers points. 
+En supposant que le mouvement est caractéristique d'un type d'activité, on peut chercher à identifier la succesion des activités en s'intéressant aux changements dans les propriétés du mouvement. Des méthodes de segmentations peuvent être utilisées pour réussir à identifier ces instants de changements.
+Une autre hypothèse classique consiste à supposer que la partie déterministe d'un mouvement est dirigée par le potentiel de l'environnement.
+Etudier la trajectoire doit ainsi donner de l'information sur ce potentiel environnemental. Le lien entre trajectoire et environnement est étudié grâce à des modèles d'équations différentielles stochastiques.
+
+### Abstract : Some statistical approaches  for movement ecology
+
+Statistical inference of movement models provides many insights on the ecological features that explain population-level dynamics. These analyzes are crucial to wildlife managers to understand complex animal behaviours . In fisheries science, understanding the underlying patterns responsible for spatial use of the ocean is a key aspect of a sustainable management. Both fields promote now large programs to deploy Global Positioning System (GPS) device.
+The ecological questions addressed by analyzing those GPS data are very broad and the specifity of trajectories data  (a spatio temporal object) requires the development of new statistical approaches. The field of statistics for movement ecology is growing  and many different approaches have been proposed. Among them, we can distinguish between
+- discrete time and discrete space approaches (mostly Markov model on lattice), 
+- discrete time and continuous space approaches (Random walk, Vectorial auto-regressiv model, Hidden Markov model, ....)
+- continuous time and continuous space methods (Brownian motion, Ornstein Uhlenbeck process and more generally Stochastic differential equestions)
+
+In this talk, we will highlight some recent development  in the two last  cases.
+- Assuming that the unknown activity of the animal is responsible of some characteristics of the movement,  the succession of different activities  might be identified by looking for changes in the properties of the trajectory. Change points detection methods can be used for the identification of the activity.
+- Another common assumption proposes to link the movement to some potential of the environment . Studying the trajectory should therefore provide information on this potential. This link is studied, in a continuous time and continuous space framework, using the Stochastic differential framework. 
+
