@@ -24,6 +24,7 @@ width="150" height="150">\hspace{5cm}<img src="http://angletr2017.com/FIG/Nouvel
 width="150" height="150">](http://www.keyrus.fr/?utm_source=journeeR&utm_medium=journeeR&utm_campaign=journeeR&utm_term=journeeR&utm_content=journeeR)
 
 - <img src="http://angletr2017.com/FIG/Logo_Dyna_HD.jpg" alt="some text"
+width="150" height="150">\phantom{-------------} \hspace{5cm}<img src="http://angletr2017.com/FIG/CRC.png" alt="some text"
 width="150" height="150">
 
 
