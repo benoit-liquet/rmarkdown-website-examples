@@ -81,3 +81,16 @@ In this talk, we will highlight some recent development  in the two last  cases.
 - Assuming that the unknown activity of the animal is responsible of some characteristics of the movement,  the succession of different activities  might be identified by looking for changes in the properties of the trajectory. Change points detection methods can be used for the identification of the activity.
 - Another common assumption proposes to link the movement to some potential of the environment . Studying the trajectory should therefore provide information on this potential. This link is studied, in a continuous time and continuous space framework, using the Stochastic differential framework. 
 
+## Joel Gombin: Faut-il coder pour être (data)journaliste ? Comment les rédactions peuvent utiliser R
+
+### Résumé : 
+
+Le datajournalisme devient aujourd'hui une figure imposée du journalisme. Dans le même temps, on demande de plus en plus aux datascientistes d'être capables de raconter une histoire à partir de données. 
+Dans cette intervention, je montre comment R peut être utile dans un travail de journalisme, tout au long du "data pipeline" ou du workflow de la data science. Je m'appuie sur des projets personnels aussi bien que sur d'autres expériences de datajournalisme, en France et à l'étranger. 
+Utiliser R n'est pas indispensable au datajournalisme. Mais il peut en faciliter la pratique et le rendre plus réplicable
+
+### Abstract: Datajournalism 
+
+Datajournalism  becomes a must-do of journalism. Conversely, datascientists are more increasingly required to be able to tell a story out of data.
+In this talk, I show how R can be useful in a journalism work, at all steps of the 'data pipeline' or the data science workflow. I use examples from personal projects as well as from other experiences of datajournalsm, in France and abroad.
+Using R is not necessary for datajournalism. But it can definititely make it easier and more replicable
