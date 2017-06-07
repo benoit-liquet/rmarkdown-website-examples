@@ -10,7 +10,29 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Reproductible documents avec Rstudio, Markdown, Github. 
 ### Animé par Nicholas Tierney (Australia) et Benoit Liquet (France)
 
-Information soon 
+**Overview**
+
+Reproducibility is a key component of good research. Just as there are many ways that one can perform an analysis, there are many different recipes and ingredients that make research reproducible.
+ 
+In this tutorial we introduce two key components (or rather, ingredients) for improving the reproducibility of your research: rmarkdown, and GitHub. We introduce how to use rmarkdown to provide a written narrative around an analysis, and demonstrate the flexibility of rmarkdown for producing documents in HTML, word, and PDF, for producing working notebooks, and also producing slideshows.
+ 
+We then describe how reproducibility is greatly enhanced using rmarkdown, and some basic guidelines for improving the reproducibility of your rmarkdown documents. We then describe how to share your research online through github, and how you can use git and github to manage your research project and collaborate with a team. We will also discuss other recipes for reproducibility that are under development.
+ 
+**Aims**
+ 
+By the end of the tutorial you should be able to:
+
+- Upload an Rmarkdown document onto GitHub
+- Share this RMarkdown document with another person
+- produce differents document with RMarkdown through Rstudio: 
+    - slides: html and pdf (need tex)
+    - document: .Rmd or Rmw
+    - Note book 
+    
+- Reproducible research:
+    - git through Rstudio
+    - put data,files, documents through github
+    - share and collaborate through github 
 
 
 ## Manipulation de données avec {dplyr} dans le tidyverse
