@@ -20,13 +20,13 @@ title: "Programme"
 
 ## **Jeudi 29 Juin** 
 
-- 9h-10h :  **Invited speaker**; Marie-Pierre Etienne. *Ecology Analysis using R*  
+- 9h-10h :  **Invited speaker**; Marie-Pierre Etienne. [*Ecology Analysis using R*](https://angletr2017.com/Abstract_talk.html)  
 - 10h-10h30 : Pause (Café, thé, ...)
 - 10h30-11h30 : Session en paralèlle. S1 (Ecologie) et S2 (Modélisation) 
 - 11h30-12h30 : **Invited speaker**;Thomas Gerds. [*Sensitivity analysis using lava simulation*](https://angletr2017.com/Abstract_talk.html)
 - 12h30-13h45 : Lunch et Poster
 - 13h45-15h00 : _Table ronde entreprise_
-- 15h00-16h00 : **Invited speaker**: Joel Gombin. *Comment les rédactions peuvent utiliser R*
+- 15h00-16h00 : **Invited speaker**: Joel Gombin. [*Comment les rédactions peuvent utiliser R*](https://angletr2017.com/Abstract_talk.html)
 - 16h00-16h30 : Pause café
 - 16h30-17h30 : Session en paralèlle. S3 (Shiny) et S4 (visualisation) 
 - 17h30-18h06 : 6 lightning talks (L1)
@@ -34,7 +34,7 @@ title: "Programme"
 
 ## **Vendredi 30 Juin**
 
-- 9h00-10h00 : **Invited speaker**; Julie Bertrand. *Approche Bayésienne en pharmacogénétique avec JAGS et RStan*
+- 9h00-10h00 : **Invited speaker**; Julie Bertrand. [*Approche Bayésienne en pharmacogénétique avec JAGS et RStan*](https://angletr2017.com/Abstract_talk.html)
 - 10h-10h30 : Pause (Café, thé, ...)
 - 10h30-11h30 : Session en paralèlle. S5 (Bayesian) et S6 (Shiny)
 - 11h30-12h30 :  **Invited speaker**; Farouk Nathoo. [*Bayesian Group-Sparse Multi-Task Regression for Imaging Genetics*](https://angletr2017.com/Abstract_talk.html)
