@@ -13,9 +13,9 @@ title: "Program"
 
 ## **Tutorials (Wednesday 28 June afternoon)**
 
-- *Reproducible documents with Rstudio, Markdown, Github*. Presented by Nicholas Tierney (Australia) and Benoit Liquet (France)
+- [*Reproducible documents with Rstudio, Markdown, Github*.](https://angletr2017.com/Abstract_tutorial.html) Presented by Nicholas Tierney (Australia) and Benoit Liquet (France)
 
-- *Data Manipulation with {dplyr} within tidyverse*. Presented by  Diane Beldame (France: http://www.thinkr.fr/)
+- [*Data Manipulation with {dplyr} within tidyverse*.](https://angletr2017.com/Abstract_tutorial.html) Presented by  Diane Beldame (France: http://www.thinkr.fr/)
 
 ## **Thursday 29 Juin** 
 

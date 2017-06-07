@@ -13,9 +13,9 @@ title: "Programme"
 
 ## **Tutoriel (mercredi 28 Juin après-midi 14h-17h)**
 
-- *Reproductible documents avec Rstudio, Markdown, Github*. Animé par Nicholas Tierney (Australia) et Benoit Liquet (France)
+- [*Reproductible documents avec Rstudio, Markdown, Github*](https://angletr2017.com/Abstract_tutorial.html). Animé par Nicholas Tierney (Australia) et Benoit Liquet (France)
 
-- *Manipulation de données avec {dplyr} dans le tidyverse*. Animé par Diane Beldame (France: http://www.thinkr.fr/) 
+- [*Manipulation de données avec {dplyr} dans le tidyverse*](https://angletr2017.com/Abstract_tutorial.html). Animé par Diane Beldame (France: http://www.thinkr.fr/) 
 
 
 ## **Jeudi 29 Juin** 

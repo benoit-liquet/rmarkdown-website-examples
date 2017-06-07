@@ -1,0 +1,25 @@
+---
+title: "Tutorials"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Reproductible documents avec Rstudio, Markdown, Github. 
+### Animé par Nicholas Tierney (Australia) et Benoit Liquet (France)
+
+Information soon 
+
+
+## Manipulation de données avec {dplyr} dans le tidyverse
+### Animé par Diane Beldame (thinkr)
+
+
+Le tidyverse (ou _ordocosme_ en français) est un ensemble de packages R autour d'un concept simple et puissant: le data-frame "tidy". Dans un jeu de données dit tidy, chaque colonne est une variable, chaque ligne est une observation. Adhérer à la **tidy attitude** facilite la manipulation de données, la modélisation et la production de graphiques.
+
+Le tutoriel présente **les principales opérations du tidyverse**. Dans un premier temps on s'intéressera à la "tidyfication" d'un jeu de données avec {tidyr}, puis la manipulation du jeu de données "tidyfié" avec {dplyr} et son ensemble d'opérations dédiées pour sélectionner des colonnes, des lignes, effectuer des groupements selon une ou plusieurs variables et
+résumer l'information.
+
+A l'aide de **l'évaluation non standard**, la syntaxe utilisée par {dplyr} est très confortable pour une utilisation exploratoire, mais peut s'avérer un obstacle pour la mise en fonction. Nous aborderons les avancées de  {dplyr} 0.6.0 qui permettent une mise en fonction plus abordable.*
