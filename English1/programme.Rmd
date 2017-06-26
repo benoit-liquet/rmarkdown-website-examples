@@ -61,7 +61,7 @@ title: "Program"
 
     - V. Guyader. Encapsuler une application R avec Docker
     - K. Chine. Clouds, containers and R, towards a global hub for reproducible and collaborative open data science
-    - P. Beaucamp. Vanilla Air - Scalable R Server 
+    - M. Gousseff. Une interface R-Shiny pour le choix de typologies sur variables qualitatives 
     
 - _S4 : Visualisation Analyse de données_ (Amphithéâtre 2, Bâtiment 1)
 
@@ -100,7 +100,7 @@ title: "Program"
 - _L2 : Friday 30 Juin_ (Amphithéâtre IUT)
     - C. Broc. Investigating Gene- and Pathway-environment Interaction analysis approaches
     - S. Thuleau. FactoInvestigate - Description automatique de résultats d'analyse factorielle
-    - M. Gousseff. Une interface R-Shiny pour le choix de typologies sur variables qualitatives
+    - A. Patou. Valorisation des données de logs via R 
     - M. Saumard. Fouille des données du jeu Mathador
     - M. Salmon. Comment je suis devenue crolute. 
     - E. Damitio. Bassins d’habitat pour les Pyrénées-Atlantiques 
