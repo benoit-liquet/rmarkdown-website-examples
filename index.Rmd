@@ -2,6 +2,13 @@
 ---
 ![](http://angletr2017.com/FIG/Anglet-1.png)
   
+
+##*_Le livret des résumés sont en ligne_* 
+
+<center>[**Abstract Program**](https://github.com/benoit-liquet/rmarkdown-website-examples/blob/gh-pages/FIG/Abstract-R-Conference-JUNE.pdf)</center>
+
+
+
   
 ## *Accueil* 
 Suite au succès des précédentes Rencontres R ([Bordeaux](http://r2012.bordeaux.inria.fr/), [Lyon](https://r2013-lyon.sciencesconf.org/), [Montpellier](https://r2014-mtp.sciencesconf.org/), [Grenoble](https://r2015-grenoble.sciencesconf.org/) et [Toulouse](https://r2016-toulouse.sciencesconf.org/)), la sixième édition se déroulera à Anglet sur le site du Parc Montaury ([UFR Sciences et Techniques de la Côte Basque](http://ufr-sciences-cb.univ-pau.fr/live/)) du 28 au 30 juin 2017. L'objectif de ces rencontres est de fournir à l'échelle nationale un lieu d'échange et de partage d'idées sur l'usage du logiciel R dans différentes disciplines (visualisation, statistique appliquée, biostatistique et bioinformatique, statistique bayésienne, analyse des données, Big Data, modélisation, machine learning, high performance computing...).

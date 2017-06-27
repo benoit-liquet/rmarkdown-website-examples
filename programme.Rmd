@@ -4,6 +4,12 @@ title: "Programme"
 
 ***
 
+##**_Le livret des résumés sont en ligne_** 
+
+<center>[**Abstract Program**](https://github.com/benoit-liquet/rmarkdown-website-examples/blob/gh-pages/FIG/Abstract-R-Conference-JUNE.pdf)</center>
+
+
+
 ##**Conférenciers invités ** 
 - Marie-Pierre Etienne (AgroParisTech/INRA): [*Ecology Analysis using R*](https://angletr2017.com/Abstract_talk.html)  
 - Thomas Gerds (Danemark, University of Copenhagen): [*Sensitivity analysis using lava simulation*](https://angletr2017.com/Abstract_talk.html)
