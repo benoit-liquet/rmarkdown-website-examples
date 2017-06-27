@@ -103,7 +103,7 @@ title: "Programme"
     - M. Deville. Analyse des débats sur le secret bancaire au Parlement suisse avec R
     - Y. Holtz. The #SurfeR project : visualiser twitter avec R 
     - Colin FAY. 1 dataset, 10 dataviz
-    - A. Antoni. Un outil de gestion de scénarios d'étude statistique en R
+    - C. Paroissin. Le Dispositif ART : Apprentissage de R pour Tous / Aprendizaje de R para Todos
     - A. Ebert. Efficient simulation of complex queueing systems with the R package queuecomputer
 
 - _L2 : Vendredi 30 Juin_ (Amphithéâtre IUT)
@@ -113,7 +113,6 @@ title: "Programme"
     - M. Saumard. Fouille des données du jeu Mathador
     - M. Salmon. Comment je suis devenue crolute. 
     - E. Damitio. Bassins d’habitat pour les Pyrénées-Atlantiques 
-    - C. Paroissin. Le Dispositif ART : Apprentissage de R pour Tous / Aprendizaje de R para Todos
     
   
 ## **Posters**    
