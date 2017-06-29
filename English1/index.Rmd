@@ -1,7 +1,12 @@
 ---
 ---
   ![](http://angletr2017.com/FIG/Anglet-1.png)
+
+##*_Abstracts are online_* 
+
+<center>[**Abstract Program**](https://github.com/benoit-liquet/rmarkdown-website-examples/blob/gh-pages/FIG/Abstract-R-Conference-JUNE.pdf)</center>
   
+
 ## *Home*
 After the successful French R Meetings of ([Bordeaux](http://r2012.bordeaux.inria.fr/), [Lyon](https://r2013-lyon.sciencesconf.org/), [Montpellier](https://r2014-mtp.sciencesconf.org/), [Grenoble](https://r2015-grenoble.sciencesconf.org/) and [Toulouse](https://r2016-toulouse.sciencesconf.org/)), our sixth meeting will take place in Anglet at the ``Parc Montaury'' ([UFR Sciences et Techniques de la Côte Basque](http://ufr-sciences-cb.univ-pau.fr/live/)) on 28-30 June 2017.  Its aim is to provide a national forum to exchange and share ideas on the use of R in different subjects such as visualisation, applied statistics, biostatistics and bioinformatics, Bayesian statistics, data analysis, Big Data, modelling, machine learning, high performance computing, etc. 
 

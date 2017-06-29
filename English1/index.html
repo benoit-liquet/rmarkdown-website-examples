@@ -19,12 +19,11 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-1.1/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-1.1/highlight.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
-<link rel="stylesheet"
-      href="site_libs/highlight/textmate.css"
-      type="text/css" />
-<script src="site_libs/highlight/highlight.js"></script>
 <style type="text/css">
   pre:not([class]) {
     background-color: white;
@@ -95,6 +94,7 @@ button.code-folding-btn:focus {
 }
 </style>
 
+
 <style type="text/css">
 /* padding for bootstrap navbar */
 body {
@@ -151,7 +151,6 @@ $(document).ready(function () {
 <div class="container-fluid main-container">
 
 <!-- tabsets -->
-<script src="site_libs/navigation-1.1/tabsets.js"></script>
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
@@ -227,6 +226,12 @@ $(document).ready(function () {
 <img src="http://angletr2017.com/FIG/Anglet-1.png" />
 
 </div>
+<div id="abstracts-are-online" class="section level2">
+<h2><em><em>Abstracts are online</em></em></h2>
+<center>
+<a href="https://github.com/benoit-liquet/rmarkdown-website-examples/blob/gh-pages/FIG/Abstract-R-Conference-JUNE.pdf"><strong>Abstract Program</strong></a>
+</center>
+</div>
 <div id="home" class="section level2">
 <h2><em>Home</em></h2>
 <p>After the successful French R Meetings of (<a href="http://r2012.bordeaux.inria.fr/">Bordeaux</a>, <a href="https://r2013-lyon.sciencesconf.org/">Lyon</a>, <a href="https://r2014-mtp.sciencesconf.org/">Montpellier</a>, <a href="https://r2015-grenoble.sciencesconf.org/">Grenoble</a> and <a href="https://r2016-toulouse.sciencesconf.org/">Toulouse</a>), our sixth meeting will take place in Anglet at the ``Parc Montaury’’ (<a href="http://ufr-sciences-cb.univ-pau.fr/live/">UFR Sciences et Techniques de la Côte Basque</a>) on 28-30 June 2017. Its aim is to provide a national forum to exchange and share ideas on the use of R in different subjects such as visualisation, applied statistics, biostatistics and bioinformatics, Bayesian statistics, data analysis, Big Data, modelling, machine learning, high performance computing, etc.</p>
@@ -257,9 +262,13 @@ $(document).ready(function () {
 <script>
 
 // add bootstrap table styles to pandoc tables
-$(document).ready(function () {
+function bootstrapStylePandocTables() {
   $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
 });
+
 
 </script>
 

@@ -3,7 +3,7 @@
 ![](http://angletr2017.com/FIG/Anglet-1.png)
   
 
-##*_Le livret des résumés sont en ligne_* 
+##*_Le livret des résumés est en ligne_* 
 
 <center>[**Abstract Program**](https://github.com/benoit-liquet/rmarkdown-website-examples/blob/gh-pages/FIG/Abstract-R-Conference-JUNE.pdf)</center>
 
