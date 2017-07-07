@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Using Rmarkdown and GitHub with RStudio</title>
+    <meta charset="utf-8">
+    <meta name="author" content="Nicholas Tierney &amp; Benoit Liquet" />
+    <link href="libs/remark-css/example.css" rel="stylesheet" />
+  </head>
+  <body>
+    <textarea id="source">
+class: center, middle, inverse, title-slide
+
+# Using Rmarkdown and GitHub with RStudio
+### Nicholas Tierney &amp; Benoit Liquet
+### 2017/06/28
+
+---
+
+
+
+
+# Who am I?
+
+- Photo of me
+- Recently submitted PhD in Statistics under [Kerrie Mengersen]()
+- Currently a research Fellow in Statistics at Monash University
+- work with [Di Cook]() and [Rob Hyndman]()
+
+---
+
+# Who is Benoit?
+
+- Photo of Benoit
+- Professor of Statistic at Univerité pau...
+
+
+---
+class: center, middle, inverse
+# Who are you?
+
+Introduce yourselves to TWO other people
+
+---
+
+# Key Elements of the course
+
+- Rmarkdown
+- Github
+- RStudio
+
+---
+
+# The bad news
+
+- There are times when learning this material might be 
+  frustrating, and that is a totally normal thing, and expected
+- funny image
+---
+
+# The good news: 
+
+- This is usually temporary and well worth the effort. We are also here to help!
+- funny image
+
+---
+class: center, middle, inverse
+# Why RMarkdown + GitHub?
+
+https://www.youtube.com/watch?v=s3JldKoA0zw
+
+???
+
+- Discuss the elements of the video, and what we are going to be focussing on
+in  this workshop of that:
+
+---
+
+class: middle
+
+# An RMarkdown document
+
+- Example
+
+--
+
+- YAML
+- Code Chunks
+- Markdown
+
+??? 
+
+- Drop them in the deep end, show them a document with a lot of bells and whistles, describe all of the really useful things in the document
+- but then say WAIIIIT
+- You've skipped ahead - where are we, what is this place?
+- Let's take it back a notch, and work through these pieces step by step.
+
+---
+
+# How is rmarkdown designed to be used?
+
+As Hadley said^[1] - Rmarkdown:
+
+1.  Communicate with decision makers, who want to focus on the conclusions,
+    not the code behind the analysis.
+    
+1.  An environment in which to _do_ data science, to capture the rich
+    narrative around your code as a modern day lab 
+    notebook, where you can capture not only what you did, but also what you
+    were thinking.
+    
+1.  For collaborating with other data scientists (including future you!), who
+    are interested in both your conclusions, and how you reached them (i.e.
+    the code).
+    
+    
+Reference: r4ds.had.co.nz
+
+---
+
+# Key compenents of an rmarkdown doc?
+
+??? 
+
+show the first example rmarkdown document
+
+  - YAML
+  - chunks
+  - markdown
+
+---
+
+# What does rmarkdown look like in RStudio?
+
+- Example
+
+???
+  - how to run each chunk
+  - how to run the whole document
+  - How does the formatting of markdown work?
+  - shortcuts for creating chunks
+
+---
+class: inverse, middle, center
+# Your Turn: 
+
+Create rmarkdown document
+
+add some code
+make your own little report, copy the text from ...., then add:
+bulleted list
+numbered list
+quote
+    
+---
+
+# OK, but what if we want to control the output of the document?
+
+.pull-left[
+
+- Code chunks have options
+
+
+    ```{r tidy=FALSE}
+    ```
+    
+```
+]
+
+
+???
+
+  - demonstrate:
+    - echo
+    - eval
+    - dev
+    - error
+    - fig.width
+    - fig.height
+    ...
+    - include
+    - results
+    - message
+    
+---
+class: inverse, middle, center
+# Your Turn
+   + change the fig.width, fig.height, and dev of the figure
+   + print only some of the code
+   + print an error message
+
+---
+
+# Tables, inline code, Equations
+
+???
+
+- Table (kable)
+- inline code
+- equations
+
+---
+class: inverse, middle, center
+# Your Turn
+  - Make a table
+  - Make some inline code chunks
+  - Make an equation
+
+---
+
+# Setting global options 
+
+???
+
+  - Setting all of these options can be a bit annoying - but there is a better way
+
+---
+class: inverse, middle, center
+# Your turn
+
+- set a global option to: 
+  - hide all of the code
+  - dev set
+
+---
+
+# how to troubleshoot an Rmarkdown document
+
+???
+  - recreate the session in an interactive session:
+    - restart R
+    - run all chunks
+    - explore working directory issues
+
+---
+class: inverse, middle, center
+# Your turn
+
+- demonstrate this
+    + get everyone to debug a document with a bug in it
+
+---
+  
+# Using citations in a document
+
+- bibliographies and citations
+
+---
+class: inverse, middle, center
+# Your turn
+  + make bibliographies
+  
+---
+
+# Recommended workflow for working with rmarkdown
+
+---
+
+# Advanced RMarkdown
+
+---
+
+# Caching
+
+???
+  - Why would you want to cache?
+  - Show example of a result to cache
+  - Show an example of data that can change
+  
+---
+class: inverse, middle, center
+# Your Turn:
+  + describe a network of chunks so that certain chunks evaluate in an order
+
+
+---
+
+# learning more:
+
+  - html floating tables
+  - PDF and LaTeX output
+  - slides (demonstrate that I have these slides)
+  - parameters
+  - other formats (word, latex, html)
+  - csl (to change the citation style)
+  - flexdashboard
+  - interactive components
+  - blogdown
+  - bookdown
+  - prettydoc
+  - rticles
+  - How to go from an RScript to Rmd
+- where to learn more
+- cheatsheets
+- some sort of transcript
+
+???
+
+# What do we expect / hope people to be able to do at the end of the course?
+
+- rmarkdown creates a narrative around the code that you write. Initially, you had to render the rmarkdown document to view the plot or view it in the finder
+        - rmarkdown notebooks change that, and provide:
+            - data viewer
+            - plot view
+            - interactive plot usage
+
+- Obvious benefits of this approach:
+    - easier to reproduce from start to finish
+    - easier to SEE what you are doing and subsequently iterate on that idea
+    - handles code printing
+    - handles table printing
+    - handles pot output
+    - equations
+    - references
+    </textarea>
+<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+<script>var slideshow = remark.create({
+"highlightStyle": "github",
+"highlightLines": true,
+"countIncrementalSlides": false
+});
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {window.dispatchEvent(new Event('resize'));});</script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+  }
+});
+</script>
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+(function () {
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src  = 'https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML';
+  if (location.protocol !== 'file:' && /^https?:/.test(script.src))
+    script.src  = script.src.replace(/^https?:/, '');
+  document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+  </body>
+</html>

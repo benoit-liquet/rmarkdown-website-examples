@@ -4,6 +4,24 @@ title: "Programme"
 
 ***
 
+##**_Les slides des présentations_** 
+
+<center>[**Slides**](https://github.com/benoit-liquet/rmarkdown-website-examples/blob/gh-pages/FIG/Slides.zip)</center>
+
+##**_Quelques videos_** 
+
+-[**Talk: Thomas Gerds**](https://mediakiosque.univ-pau.fr/video/4241-sensitivity-analysis-using-lava-simulation-par-thomas-gerds/)
+
+-[**Talk: Marie Pierre Etienne**](https://mediakiosque.univ-pau.fr/video/4242-ecololy-analysis-using-r-par-marie-pierre-etienne/)
+
+-[**Talk: Joel Gombin**](https://mediakiosque.univ-pau.fr/video/4243-faut-il-coder-pour-etre-data-journaliste-comment-les-redactions-peuvent-utiliser-rfaut-il-coder-pour-etre-data-journaliste-comment-les-redactions-peuvent-utiliser-r-par-joel-gombin/)
+
+-[**Table ronde entreprise**](https://mediakiosque.univ-pau.fr/video/4244-6eme-edition-des-rencontres-r-table-ronde-entreprise/)
+
+
+
+
+
 ##**_Le livret des résumés est en ligne_** 
 
 <center>[**Abstract Program**](https://github.com/benoit-liquet/rmarkdown-website-examples/blob/gh-pages/FIG/Abstract-R-Conference-JUNE.pdf)</center>
