@@ -6,7 +6,7 @@ title: "Programme"
 
 ##**_Les slides des présentations_** 
 
-<center>[**Slides**](https://github.com/benoit-liquet/rmarkdown-website-examples/blob/gh-pages/FIG/Slides.zip)</center>
+<center>[**Slides**](https://github.com/benoit-liquet/rmarkdown-website-examples/blob/gh-pages/Slides.zip)</center>
 
 ##**_Quelques videos_** 
 
