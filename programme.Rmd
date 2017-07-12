@@ -20,6 +20,15 @@ title: "Programme"
 
 
 
+##**_Videos des tutoriels_** 
+
+-[**Tutoriel: Reproducible...**](http://mediakiosque.univ-pau.fr/video/4246-using-rmarkdown-and-github-with-rstudio-part-one-using-rmarkdown-nicholas-tierney-et-benoit-liquet/)
+
+-[**Tutoriel: Reproducible...**](http://mediakiosque.univ-pau.fr/video/4247-using-rmarkdown-and-github-with-rstudio-part-two-using-github-nicholas-tierney-et-benoit-liquet/)
+
+-[**Tutoriel: Dplyr...**](http://mediakiosque.univ-pau.fr/video/4248-manipulation-de-donnees-avec-dplyr-dans-le-tidyverse-part-1-par-diane-beldame/)
+
+-[**Tutoriel: Dplyr...**](http://mediakiosque.univ-pau.fr/video/4249-manipulation-de-donnees-avec-dplyr-dans-le-tidyverse-part-2-par-diane-beldame/)
 
 
 ##**_Le livret des résumés est en ligne_** 
